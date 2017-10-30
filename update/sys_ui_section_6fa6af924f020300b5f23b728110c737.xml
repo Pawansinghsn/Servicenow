@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-29 05:24:17</sys_created_on>
-            <sys_id>38bd63564f020300b5f23b728110c77e</sys_id>
+            <sys_created_on>2017-10-30 08:36:51</sys_created_on>
+            <sys_id>2b53ed3a4f460300b5f23b728110c777</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134738_innovate_innovate" sys_domain="global" view="Default view">6fa6af924f020300b5f23b728110c737</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-29 05:24:17</sys_updated_on>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_choice_3</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-29 05:24:17</sys_created_on>
-            <sys_id>b8bd63564f020300b5f23b728110c77e</sys_id>
+            <sys_created_on>2017-10-30 08:36:51</sys_created_on>
+            <sys_id>ab53ed3a4f460300b5f23b728110c777</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134738_innovate_innovate" sys_domain="global" view="Default view">6fa6af924f020300b5f23b728110c737</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-29 05:24:17</sys_updated_on>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-29 05:24:17</sys_created_on>
-            <sys_id>3cbd63564f020300b5f23b728110c77e</sys_id>
+            <sys_created_on>2017-10-30 08:36:51</sys_created_on>
+            <sys_id>2f53ed3a4f460300b5f23b728110c777</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134738_innovate_innovate" sys_domain="global" view="Default view">6fa6af924f020300b5f23b728110c737</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-29 05:24:17</sys_updated_on>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,15 +47,29 @@
             <element>sys_created_on</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-29 05:24:17</sys_created_on>
-            <sys_id>bcbd63564f020300b5f23b728110c77e</sys_id>
+            <sys_created_on>2017-10-30 08:36:51</sys_created_on>
+            <sys_id>af53ed3a4f460300b5f23b728110c777</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134738_innovate_innovate" sys_domain="global" view="Default view">6fa6af924f020300b5f23b728110c737</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-29 05:24:17</sys_updated_on>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-30 08:36:51</sys_created_on>
+            <sys_id>2353ed3a4f460300b5f23b728110c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_134738_innovate_innovate" sys_domain="global" view="Default view">6fa6af924f020300b5f23b728110c737</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
@@ -65,11 +79,11 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-10-29 04:53:36</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>6fa6af924f020300b5f23b728110c737</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_134738_innovate_innovate</sys_name>
             <sys_overrides/>
             <sys_package display_value="Innovate" source="x_134738_innovate">c36f0ebd4f420300b5f23b728110c77e</sys_package>
@@ -78,7 +92,7 @@
             <sys_scope display_value="Innovate">c36f0ebd4f420300b5f23b728110c77e</sys_scope>
             <sys_update_name>sys_ui_section_6fa6af924f020300b5f23b728110c737</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-29 04:53:36</sys_updated_on>
+            <sys_updated_on>2017-10-30 08:36:51</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

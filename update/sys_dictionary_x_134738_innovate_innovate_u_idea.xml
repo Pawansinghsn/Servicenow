@@ -47,7 +47,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-29 05:23:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>348d23564f020300b5f23b728110c78e</sys_id>
+        <sys_id>6a13e13a4f460300b5f23b728110c7fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Idea</sys_name>
         <sys_package display_value="Innovate" source="x_134738_innovate">c36f0ebd4f420300b5f23b728110c77e</sys_package>
@@ -55,8 +55,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate">c36f0ebd4f420300b5f23b728110c77e</sys_scope>
         <sys_update_name>sys_dictionary_x_134738_innovate_innovate_u_idea</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-29 05:23:28</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-10-30 08:35:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
